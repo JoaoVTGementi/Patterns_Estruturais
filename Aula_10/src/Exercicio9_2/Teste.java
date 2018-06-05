@@ -2,7 +2,7 @@ package Exercicio9_2;
 
 /**
  * 
- * @author Allan Samey Cordeiro Ramos - RA:201516605 - Turma:SIN3AN-MCA
+ * @author João Victor Telles Gementi - RA:81616650 - Turma:SIN3AN-MCA
  * 			
  *
  */
